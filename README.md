@@ -1,6 +1,6 @@
 # **Behavioral Cloning** 
 
-### ![](BEHAviour clonning.png)
+### ![](bh.png)
 
 ---
 
@@ -114,11 +114,11 @@ To capture good driving behavior, I first recorded 10 laps on track one using ce
 
 
 
-![](download (19).png)
+![](fig1.png)
 
-![](download (20).png)
+![](fig2.png)
 
-![](download (21).png)
+![](fig3.png)
 
 
 
